@@ -10,4 +10,4 @@ palabras = frase.split()
 # Se utiliza len para contar el número de palabras
 numero_de_palabras = len(palabras)
 
-print(f"El número de palabras en la frase es: {numero_de_palabras}")
+print(f"El número de palabras que hay en la frase es: {numero_de_palabras}")
